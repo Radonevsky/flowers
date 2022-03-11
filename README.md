@@ -1,2 +1,2 @@
 # flowers
-Landing, HTML, CSS
+Simple HTML / CSS landing
